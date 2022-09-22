@@ -1,0 +1,1276 @@
+@media (min-width: 1400px) {
+
+    .top_about h4,
+    .bottom_about h4,
+    .left_about h4,
+    .right_about h4 {
+        margin-bottom: 10px;
+    }
+
+    .ser_right {
+        padding: 20px 20px;
+    }
+
+    .chain {
+        height: 580px;
+    }
+
+    .ser_bttm_btn {
+        bottom: -74px;
+    }
+
+    .c_comment {
+        width: 750px !important;
+        margin-right: 170px;
+        margin-top: 62px;
+    }
+
+    .chain2 {
+        top: -50px;
+        left: 72px;
+    }
+
+    #comment {
+        padding-bottom: 105px;
+    }
+
+    .comment_top_btn {
+        top: -90px;
+        left: 73px;
+    }
+
+    .comment_bttm_btn {
+        left: 73px;
+        bottom: -558px;
+    }
+
+    .t_img img {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .comment_shape {
+        left: -38px;
+    }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .navbar {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: -27px;
+    }
+
+    .banner_text h2 {
+        font-size: 34px;
+        margin-bottom: 18px;
+    }
+
+    .banner_text h1 {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+
+    .banner_text p {
+        margin-bottom: 35px;
+        padding: 0 20px;
+    }
+
+    .banner_btn button {
+        padding: 12px 0;
+    }
+
+    .top_about,
+    .bottom_about,
+    .right_about {
+        padding: 20px 28px;
+    }
+
+    .left_about {
+        padding: 20px 26px;
+    }
+
+    .top_about h4,
+    .bottom_about h4,
+    .left_about h4,
+    .right_about h4 {
+        margin-bottom: 10px;
+    }
+
+    .inner_img {
+        width: 280px;
+        height: 280px;
+    }
+
+    .about_img {
+        width: 315px;
+        height: 315px;
+    }
+
+    .ser_col:nth-child(2n) .ser_right .shape {
+        left: 446px;
+    }
+
+    .ser_right {
+        padding: 25px 25px;
+
+    }
+
+    .chain {
+        height: 675px;
+    }
+
+    .ser_bttm_btn {
+        bottom: -68px;
+    }
+
+    .comment_shape {
+        left: -38px;
+    }
+
+    .c_comment {
+        width: 650px !important;
+        margin-right: 270px;
+        margin-top: 90px;
+    }
+
+    .chain2 {
+        top: -50px;
+        left: 72px;
+    }
+
+    .about_shape {
+        left: 2px;
+    }
+
+    .service_shape {
+        left: 1px;
+    }
+
+    #comment {
+        padding-bottom: 105px;
+    }
+
+    .comment_top_btn {
+        top: -90px;
+        left: 73px;
+    }
+
+    .comment_bttm_btn {
+        left: 73px;
+        bottom: -558px;
+    }
+
+    .t_img img {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .counter_col {
+        width: 210px;
+    }
+
+    .foot_item p {
+        font-size: 14px;
+        font-family: var(--f2);
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: -22px;
+    }
+
+    .banner_text h2 {
+        font-size: 32px;
+        margin-bottom: 16px;
+    }
+
+    .banner_text h1 {
+        font-size: 50px;
+        margin-bottom: 20px;
+    }
+
+    .banner_text p {
+        margin-bottom: 35px;
+        padding: 0 20px;
+    }
+
+    .banner_btn button {
+        padding: 12px 0;
+    }
+
+    .top_about,
+    .bottom_about,
+    .right_about {
+        padding: 20px 28px;
+    }
+
+    .left_about {
+        padding: 20px 34px;
+    }
+
+    .top_about h4,
+    .bottom_about h4,
+    .left_about h4,
+    .right_about h4 {
+        margin-bottom: 10px;
+    }
+
+    .inner_img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .about_img {
+        width: 290px;
+        height: 290px;
+    }
+
+    .ab_right .dot {
+        left: -40px;
+    }
+
+    .ab_left .dot {
+        right: -40px;
+    }
+
+    .ser_top_btn {
+        top: 77px;
+    }
+
+    .ser_col:nth-child(2n) .ser_right .shape {
+        left: 374px;
+    }
+
+    .ser_right {
+        padding: 20px 20px;
+
+    }
+
+    .chain {
+        top: 115px;
+        height: 722px;
+    }
+
+    .c_comment {
+        width: 650px !important;
+        margin-right: 270px;
+        margin-top: 90px;
+    }
+
+    .chain2 {
+        top: -50px;
+        left: 72px;
+    }
+
+    #comment {
+        padding-bottom: 115px;
+    }
+
+    .comment_top_btn {
+        top: -90px;
+        left: 73px;
+    }
+
+    .comment_shape {
+        left: -38px;
+    }
+
+    .comment_bttm_btn {
+        left: 73px;
+        bottom: -558px;
+    }
+
+    .counter_col {
+        width: 172px;
+    }
+
+    .t_img img {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .foot_item p {
+        font-size: 13px;
+        font-family: var(--f2);
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /* ================== navbar area start ============== */
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        position: static;
+        background: #111;
+    }
+
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        transform: scale(.9);
+    }
+
+    /* ================== navbar area end ============== */
+
+    /* ================== banner area start ============== */
+    .banner_text h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .banner_text h1 {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+
+    .banner_text p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 20px;
+        padding: 0 60px;
+    }
+
+    .banner_btn button {
+        font-size: 16px;
+        padding: 8px 0;
+        width: 115px;
+    }
+
+    #banner .nxt_arrow {
+        display: none !important;
+    }
+
+    #banner .prev_arrow {
+        display: none !important;
+    }
+
+    /* ================== banner area end ============== */
+
+    /* ================== about area start ============== */
+    .header {
+        margin-top: -70px;
+    }
+
+    .header h3 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .header p {
+        margin-bottom: 50px;
+        padding: 0 40px;
+    }
+
+    #about .shape {
+        display: none;
+    }
+
+    #about .dot {
+        display: none;
+    }
+
+    .top_about,
+    .left_about,
+    .bottom_about,
+    .right_about {
+        margin-bottom: 28px;
+        padding: 20px 8px;
+    }
+
+    .top_about h4,
+    .left_about h4,
+    .bottom_about h4,
+    .right_about h4 {
+        margin-bottom: 15px;
+    }
+
+    .about_img {
+        margin-bottom: 30px !important;
+    }
+
+    /* ================== about area end ============== */
+
+    /* ================== portfolio area start ============== */
+    #portfolio {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: -122px;
+    }
+
+    .port_img:last-child {
+        margin-bottom: 24px;
+    }
+
+    .port_header h3 {
+        font-size: 30px;
+    }
+
+    .port_header p {
+        margin-bottom: 40px;
+    }
+
+    /* ================== portfolio area end ============== */
+
+    /* ================== service area start ============== */
+    #service {
+        margin-bottom: -120px;
+    }
+
+    .ser_right p {
+        text-align: center !important;
+    }
+
+    .ser_left {
+        width: 100%;
+        text-align: center !important;
+        margin-bottom: 40px;
+        margin-top: 70px;
+    }
+
+    .ser_row {
+        margin-top: -120px;
+    }
+
+    .s_col {
+        margin: 0 12px;
+    }
+
+    .ser_mid {
+        width: 100%;
+    }
+
+    .ser_right {
+        width: 100%;
+        margin-top: 40px;
+        padding: 20px 20px;
+    }
+
+    .ser_col:nth-child(even) .ser_left h3 {
+        text-align: center;
+    }
+
+    .ser_col:nth-child(even) .ser_right p {
+        text-align: center;
+    }
+
+    .ser_col:nth-child(odd).slick-center .ser_right {
+        filter: none;
+    }
+
+    .ser_col:nth-child(even).slick-center .ser_right {
+        filter: none;
+    }
+
+    /* ================== service area end ============== */
+
+    /* ================== comment area start ============== */
+    #comment {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        position: relative;
+    }
+
+    .comment_slider {
+        width: 100%;
+        margin-top: -70px;
+    }
+
+    .comment_shape {
+        left: -44px;
+    }
+
+    .c_comment {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+
+    .main_comment {
+        width: 150px;
+        margin: 0 auto;
+    }
+
+    .comment_img {
+        margin-left: 45px;
+    }
+
+    .comment_img.slick-center {
+        transform: scale(1);
+        background: #fec600;
+    }
+
+    /* ================== comment area end ============== */
+
+
+    /* ================== counter area start ============== */
+    #counter {
+        padding-top: 80px;
+        padding-bottom: 50px;
+        margin-top: -81px;
+    }
+
+    .counter_row {
+        transform: rotate(0) skew(0);
+    }
+
+    .counter_col {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 24px;
+    }
+
+    .counter_col p {
+        transform: rotate(0);
+    }
+
+    .counter_col h4 {
+        transform: rotate(0);
+    }
+
+    .main_team {
+        margin-bottom: 24px;
+    }
+
+    .team_text {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+    .main_team {
+        padding-top: 0;
+        padding-bottom: 40px;
+    }
+
+    .t_img img {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* ================== counter area end ============== */
+
+    /* ================== partner area start ============== */
+    #partner {
+        padding-top: 70px;
+        padding-bottom: 0px;
+        margin-top: -110px;
+    }
+
+    .part_row {
+        transform: rotate(-3deg) skew(-3deg);
+    }
+
+    .part_col img {
+        transform: rotate(-3deg);
+    }
+
+    .part_col {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .part_row {
+        padding-bottom: 70px;
+    }
+
+    /* ================== partner area end ============== */
+
+    /* ================== footer area start ============== */
+    .footer_logo::after {
+        bottom: 25px;
+        transform: rotate(-3deg);
+    }
+
+    .footer_body {
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+
+    .foot_item {
+        border-right: 0;
+    }
+
+    .foot_item p {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+
+    .footer_f {
+        padding-top: 10px;
+        padding-bottom: 25px;
+    }
+
+    .footer_f a {
+        margin: 0 10px;
+    }
+
+    /* ================== footer area end ============== */
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /* ================== navbar area start ============== */
+    .navbar {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        position: static;
+        background: #111;
+    }
+
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        transform: scale(.8);
+    }
+
+    /* ================== navbar area end ============== */
+
+    /* ================== banner area start ============== */
+    .banner_text h2 {
+        font-size: 26px;
+        margin-bottom: 12px;
+    }
+
+    .banner_text h1 {
+        font-size: 35px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text p {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 25px;
+        padding: 0 0px;
+        padding: 0 60px;
+    }
+
+    .banner_btn button {
+        font-size: 16px;
+        padding: 8px 0;
+        width: 115px;
+    }
+
+    #banner .nxt_arrow {
+        display: none !important;
+    }
+
+    #banner .prev_arrow {
+        display: none !important;
+    }
+
+    /* ================== banner area end ============== */
+
+    /* ================== about area start ============== */
+    .header {
+        margin-top: 30px;
+    }
+
+    .header h3 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .header p {
+        margin-bottom: 50px;
+        padding: 0 40px;
+    }
+
+    #about .shape {
+        display: none;
+    }
+
+    #about .dot {
+        display: none;
+    }
+
+    .top_about,
+    .left_about,
+    .bottom_about,
+    .right_about {
+        margin-bottom: 28px;
+        padding: 20px 8px;
+    }
+
+    .top_about h4,
+    .left_about h4,
+    .bottom_about h4,
+    .right_about h4 {
+        margin-bottom: 15px;
+    }
+
+    .about_img {
+        margin-bottom: 30px !important;
+    }
+
+    .top_about p {
+        padding: 0 40px;
+    }
+
+    /* ================== about area end ============== */
+
+    /* ================== portfolio area start ============== */
+    #portfolio {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 30px;
+    }
+
+    .port_img:last-child {
+        margin-bottom: 24px;
+    }
+
+    .port_header h3 {
+        font-size: 30px;
+    }
+
+    .port_header p {
+        margin-bottom: 40px;
+    }
+
+    /* ================== portfolio area end ============== */
+
+    /* ================== service area start ============== */
+    .ser_right p {
+        text-align: center !important;
+    }
+
+    .ser_left {
+        width: 100%;
+        text-align: center !important;
+        margin-bottom: 40px;
+        margin-top: 70px;
+    }
+
+    .ser_row {
+        margin-top: -70px;
+    }
+
+    .ser_mid {
+        width: 100%;
+    }
+
+    .ser_right {
+        width: 100%;
+        margin-top: 40px;
+        padding: 20px 20px;
+    }
+
+    .ser_col:nth-child(even) .ser_left h3 {
+        text-align: center;
+    }
+
+    .ser_col:nth-child(even) .ser_right p {
+        text-align: center;
+    }
+
+    .ser_col:nth-child(odd).slick-center .ser_right {
+        filter: none;
+    }
+
+    .ser_col:nth-child(even).slick-center .ser_right {
+        filter: none;
+    }
+
+    /* ================== service area end ============== */
+
+    /* ================== comment area start ============== */
+    #comment {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        position: relative;
+    }
+
+    .comment_slider {
+        width: 100%;
+        margin-top: -70px;
+    }
+
+    .c_comment {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+
+    .main_comment {
+        width: 150px;
+        margin: 0 auto;
+    }
+
+    .comment_img {
+        margin-left: 45px;
+    }
+
+    .comment_img.slick-center {
+        transform: scale(1);
+        background: #fec600;
+    }
+
+    /* ================== comment area end ============== */
+
+
+    /* ================== counter area start ============== */
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 40px;
+    }
+
+    .counter_row {
+        transform: rotate(0) skew(0);
+    }
+
+    .counter_col {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 24px;
+    }
+
+    .counter_col p {
+        transform: rotate(0);
+    }
+
+    .counter_col h4 {
+        transform: rotate(0);
+    }
+
+    .main_team {
+        margin-bottom: 24px;
+    }
+
+    .team_text {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+    .main_team {
+        padding-top: 0;
+        padding-bottom: 40px;
+    }
+
+    .t_img img {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* ================== counter area end ============== */
+
+    /* ================== partner area start ============== */
+    #partner {
+        padding-top: 30px;
+        padding-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .part_row {
+        transform: rotate(0) skew(0);
+    }
+
+    .part_col img {
+        transform: rotate(0);
+    }
+
+    .part_col {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .part_row {
+        padding-bottom: 70px;
+    }
+
+    /* ================== partner area end ============== */
+
+    /* ================== footer area start ============== */
+    .footer_logo::after {
+        bottom: 25px;
+        transform: rotate(0);
+    }
+
+    .footer_body {
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+
+    .foot_item {
+        border-right: 0;
+    }
+
+    .foot_item p {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+
+    .footer_f {
+        padding-top: 10px;
+        padding-bottom: 25px;
+    }
+
+    .footer_f a {
+        margin: 0 10px;
+    }
+
+    .cursor.cursor-follower {
+        display: none;
+    }
+
+    .cursor.cursor-dot {
+        display: none;
+    }
+
+    /* ================== footer area end ============== */
+
+}
+
+@media (max-width: 575.99px) {
+
+    /* ================== navbar area start ============== */
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0;
+        position: static;
+        background: #111;
+    }
+
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        transform: scale(.7);
+    }
+
+    /* ================== navbar area end ============== */
+
+    /* ================== banner area start ============== */
+    .banner_text h2 {
+        font-size: 18px;
+        margin-bottom: 6px;
+    }
+
+    .banner_text h1 {
+        font-size: 28px;
+        margin-bottom: 5px;
+    }
+
+    .banner_text p {
+        font-size: 13px;
+        line-height: 18px;
+        margin-bottom: 5px;
+        padding: 0 0px;
+    }
+
+    .banner_btn button {
+        font-size: 13px;
+        padding: 4px 0;
+        width: 105px;
+    }
+
+    #banner .nxt_arrow {
+        display: none !important;
+    }
+
+    #banner .prev_arrow {
+        display: none !important;
+    }
+
+    /* ================== banner area end ============== */
+
+    /* ================== about area start ============== */
+    .header {
+        margin-top: 30px;
+    }
+
+    .header h3 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+
+    .header p {
+        margin-bottom: 45px;
+    }
+
+    #about .shape {
+        display: none;
+    }
+
+    #about .dot {
+        display: none;
+    }
+
+    .top_about,
+    .left_about,
+    .bottom_about,
+    .right_about {
+        margin-bottom: 28px;
+        padding: 20px 8px;
+    }
+
+    .top_about h4,
+    .left_about h4,
+    .bottom_about h4,
+    .right_about h4 {
+        margin-bottom: 15px;
+    }
+
+    .about_img {
+        width: 300px;
+        height: 300px;
+        margin-bottom: 30px !important;
+    }
+
+    .inner_img {
+        width: 260px;
+        height: 260px;
+    }
+
+    /* ================== about area end ============== */
+
+    /* ================== portfolio area start ============== */
+    #portfolio {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 15px;
+    }
+
+    .port_img:last-child {
+        margin-bottom: 24px;
+    }
+
+    .port_header h3 {
+        font-size: 30px;
+    }
+
+    .port_header p {
+        margin-bottom: 40px;
+    }
+
+    /* ================== portfolio area end ============== */
+
+    /* ================== service area start ============== */
+    .ser_right p {
+        text-align: center !important;
+    }
+
+    .ser_left {
+        width: 100%;
+        text-align: center !important;
+        margin-bottom: 40px;
+        margin-top: 54px;
+    }
+
+    .ser_row {
+        margin-top: -70px;
+    }
+
+    .ser_mid {
+        width: 100%;
+    }
+
+    .ser_right {
+        width: 100%;
+        margin-top: 40px;
+        padding: 20px 20px;
+    }
+
+    .ser_col:nth-child(even) .ser_left h3 {
+        text-align: center;
+    }
+
+    .ser_col:nth-child(even) .ser_right p {
+        text-align: center;
+    }
+
+    .ser_col:nth-child(odd).slick-center .ser_right {
+        filter: none;
+    }
+
+    .ser_col:nth-child(even).slick-center .ser_right {
+        filter: none;
+    }
+
+    /* ================== service area end ============== */
+
+    /* ================== comment area start ============== */
+    #comment {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        position: relative;
+    }
+
+    .comment_slider {
+        width: 100%;
+        margin-top: -70px;
+    }
+
+    .c_comment {
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+
+    .main_comment {
+        width: 150px;
+        margin: 0 auto;
+    }
+
+    .comment_img {
+        margin-left: 45px;
+    }
+
+    .comment_img.slick-center {
+        transform: scale(1);
+        background: #fec600;
+    }
+
+    /* ================== comment area end ============== */
+
+
+    /* ================== counter area start ============== */
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 40px;
+    }
+
+    .counter_row {
+        transform: rotate(0) skew(0);
+    }
+
+    .counter_col {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 24px;
+    }
+
+    .counter_col p {
+        transform: rotate(0);
+    }
+
+    .counter_col h4 {
+        transform: rotate(0);
+    }
+
+    .main_team {
+        margin-bottom: 24px;
+    }
+
+    .team_text {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+    .main_team {
+        padding-top: 0;
+        padding-bottom: 40px;
+    }
+
+    .t_img img {
+        margin-top: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* ================== counter area end ============== */
+
+    /* ================== partner area start ============== */
+    #partner {
+        padding-top: 30px;
+        padding-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .part_row {
+        transform: rotate(0) skew(0);
+    }
+
+    .part_col img {
+        transform: rotate(0);
+    }
+
+    .part_col {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .part_row {
+        padding-bottom: 70px;
+    }
+
+    /* ================== partner area end ============== */
+
+    /* ================== footer area start ============== */
+    .footer_logo::after {
+        bottom: 25px;
+        transform: rotate(0);
+    }
+
+    .footer_body {
+        padding-top: 10px;
+        padding-bottom: 0px;
+    }
+
+    .foot_item {
+        border-right: 0;
+    }
+
+    .foot_item p {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+
+    .footer_f {
+        padding-top: 10px;
+        padding-bottom: 25px;
+    }
+
+    .footer_f a {
+        margin: 0 10px;
+    }
+
+    .preloader h2 {
+        font-size: 25px;
+    }
+
+    .cursor.cursor-follower {
+        display: none;
+    }
+
+    .cursor.cursor-dot {
+        display: none;
+    }
+
+    /* ================== footer area end ============== */
+
+}
+
+@media (min-width: 425px) and (max-width: 575.99px) {
+    .banner_text h2 {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text h1 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .banner_text p {
+        font-size: 13px;
+        line-height: 18px;
+        margin-bottom: 15px;
+        padding: 0 0px;
+    }
+}
